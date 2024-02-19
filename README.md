@@ -9,7 +9,7 @@ Alura front-end immersion was an online event that took place from January 22 to
 The goal of this project was to replicate the Spotify page using the aforementioned technologies. Additionally, it aimed to provide a closer experience to the reality of website development.
 
 ## Project Status
-🚧 In Progress
+🚫 Cancelled 🚫
 
 ## Final Result
 
