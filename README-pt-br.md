@@ -7,11 +7,9 @@ A imersão front-end da Alura foi um evento online que ocorreu entre 22 e 26 de 
 O objetivo deste projeto foi reproduzir a página do Spotify utilizando as tecnologias mencionadas anteriormente. Além disso, visou proporcionar uma experiência mais próxima da realidade do desenvolvimento de sites.
 
 ## Estado do projeto
-🚧 Em Andamento
+🚫 Cancelado
 
 ## Resultado final
-
-
 
 Veja no Vercel 👉 https://alura-imersao-spotify.vercel.app/
 
