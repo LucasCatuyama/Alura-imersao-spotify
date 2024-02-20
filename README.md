@@ -13,6 +13,6 @@ The goal of this project was to replicate the Spotify page using the aforementio
 
 ## Final Result
 
-Check it out on Vercel 👉 https://alura-immersion-spotify.vercel.app/
+Check it out on Vercel 👉 https://alura-imersao-spotify.vercel.app/
 
 **Note:** The translation has been provided, and adjustments can be made as needed.
